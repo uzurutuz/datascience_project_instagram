@@ -1,0 +1,47 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_VC43,Estimate; RACE - Total population
+HC02_VC43,Margin of Error; RACE - Total population
+HC03_VC43,Percent; RACE - Total population
+HC04_VC43,Percent Margin of Error; RACE - Total population
+HC01_VC45,Estimate; RACE - Total population - Two or more races
+HC02_VC45,Margin of Error; RACE - Total population - Two or more races
+HC03_VC45,Percent; RACE - Total population - Two or more races
+HC04_VC45,Percent Margin of Error; RACE - Total population - Two or more races
+HC01_VC48,Estimate; RACE - One race
+HC02_VC48,Margin of Error; RACE - One race
+HC03_VC48,Percent; RACE - One race
+HC04_VC48,Percent Margin of Error; RACE - One race
+HC01_VC49,Estimate; RACE - One race - White
+HC02_VC49,Margin of Error; RACE - One race - White
+HC03_VC49,Percent; RACE - One race - White
+HC04_VC49,Percent Margin of Error; RACE - One race - White
+HC01_VC50,Estimate; RACE - One race - Black or African American
+HC02_VC50,Margin of Error; RACE - One race - Black or African American
+HC03_VC50,Percent; RACE - One race - Black or African American
+HC04_VC50,Percent Margin of Error; RACE - One race - Black or African American
+HC01_VC51,Estimate; RACE - One race - American Indian and Alaska Native
+HC02_VC51,Margin of Error; RACE - One race - American Indian and Alaska Native
+HC03_VC51,Percent; RACE - One race - American Indian and Alaska Native
+HC04_VC51,Percent Margin of Error; RACE - One race - American Indian and Alaska Native
+HC01_VC56,Estimate; RACE - One race - Asian
+HC02_VC56,Margin of Error; RACE - One race - Asian
+HC03_VC56,Percent; RACE - One race - Asian
+HC04_VC56,Percent Margin of Error; RACE - One race - Asian
+HC01_VC64,Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC02_VC64,Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC03_VC64,Percent; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC04_VC64,Percent Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC01_VC69,Estimate; RACE - One race - Some other race
+HC02_VC69,Margin of Error; RACE - One race - Some other race
+HC03_VC69,Percent; RACE - One race - Some other race
+HC04_VC69,Percent Margin of Error; RACE - One race - Some other race
+HC01_VC87,Estimate; HISPANIC OR LATINO AND RACE - Total population
+HC02_VC87,Margin of Error; HISPANIC OR LATINO AND RACE - Total population
+HC03_VC87,Percent; HISPANIC OR LATINO AND RACE - Total population
+HC04_VC87,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population
+HC01_VC88,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+HC02_VC88,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+HC03_VC88,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+HC04_VC88,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
